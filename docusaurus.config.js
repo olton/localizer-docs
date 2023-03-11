@@ -70,7 +70,7 @@ const config = {
             label: 'Localizer Docs',
           },
           {
-            href: 'https://github.com/olton/easy-report-docs',
+            href: 'https://github.com/olton/localizer-docs',
             label: 'GitHub',
             position: 'right',
           },
